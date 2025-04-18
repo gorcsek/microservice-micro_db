@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Microservice\\MicroDb\\": "src/"
+            "Microservice\\MicroDB\\": "src/"
         }
     },
     "authors": [
@@ -15,5 +15,4 @@
         }
     ],
     "require": {}
-
 }
