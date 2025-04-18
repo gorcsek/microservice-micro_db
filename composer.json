@@ -1,0 +1,16 @@
+{
+    "name": "microservice/micro_db",
+    "description": "Lightweight database without any modules",
+    "autoload": {
+        "psr-4": {
+            "Microservice\\MicroDb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gor Milan",
+            "email": "gm@microservice.hu"
+        }
+    ],
+    "require": {}
+}
