@@ -1,6 +1,8 @@
 {
     "name": "microservice/micro_db",
     "description": "Lightweight database without any modules",
+    "minimum-stability": "stable",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Microservice\\MicroDb\\": "src/"
@@ -13,4 +15,5 @@
         }
     ],
     "require": {}
+
 }
